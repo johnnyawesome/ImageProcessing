@@ -1,5 +1,8 @@
 # ImageProcessing
-Image Processing with P5JS - Some simple image filters
+
+Image Processing with P5JS
+
+Coding some simple image filters...
 
 A nice UI with buttons to apply different filters to an image:
 
