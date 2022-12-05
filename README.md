@@ -30,10 +30,3 @@ A shine effect:
 
 ![Shine](https://raw.githubusercontent.com/johnnyawesome/ImageProcessing/main/ImageProcessing/DemoImages/Shine.jpg)
 
-## More information
-
-To learn more about Image Processing, check out [this blogpost](https://breaksome.tech/image-processing-with-p5js---coding-filters/) where I described in great detail:
-
-- What Image Processing is
-- How it works
-- How you can code it yourself
